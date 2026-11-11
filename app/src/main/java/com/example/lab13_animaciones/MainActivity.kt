@@ -64,10 +64,9 @@ fun Laboratorio13App() {
                 1 -> Ejercicio1Screen()
                 2 -> Ejercicio2Screen()
                 3 -> Ejercicio3Screen()
-                4 -> Text("Ejercicio 4: Pendiente")
+                4 -> Ejercicio4Screen()
                 5 -> Text("Videojuego: Pendiente")
             }
-
 
         }
     }
