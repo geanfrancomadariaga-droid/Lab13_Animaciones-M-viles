@@ -63,11 +63,11 @@ fun Laboratorio13App() {
             when (pantalla) {
                 1 -> Ejercicio1Screen()
                 2 -> Ejercicio2Screen()
-
-                3 -> Text("Ejercicio 3: Pendiente")
+                3 -> Ejercicio3Screen()
                 4 -> Text("Ejercicio 4: Pendiente")
                 5 -> Text("Videojuego: Pendiente")
             }
+
 
         }
     }
